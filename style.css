@@ -53,7 +53,7 @@ section:first-child{
 section:first-child > div:first-child{
     display: grid;
     place-items: center;
-    height: 90vh;
+    height: 85vh;
 }
 
 
@@ -122,7 +122,7 @@ footer > .container{
   height: 40px;
   bottom: 10%;
   margin: -20px 0 0 -20px;
-  -webkit-transform: rotate(45deg);
+  --webkit-transform: rotate(45deg);
   border-left: none;
   border-top: none;
   border-right: 2px #fff solid;
